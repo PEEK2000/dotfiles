@@ -1,0 +1,47 @@
+
+window {
+    margin: 0px;
+    border: 2px solid #2c2c2c;
+    background-color: #0a0a0a;
+    font-family: "CaskaydiaCove Nerd Font", "monospace";
+    font-size: 14px;
+    color: #c9c9c9;
+}
+
+#input {
+margin: 5px;
+border: 2px solid #2c2c2c;
+background-color: #191919;
+color: #c9c9c9;
+padding: 8px;
+}
+
+#inner-box {
+margin: 5px;
+border: none;
+background-color: transparent;
+}
+
+#outer-box {
+margin: 10px;
+border: none;
+background-color: transparent;
+}
+
+#scroll {
+margin: 0px;
+border: none;
+}
+
+#entry {
+padding: 10px;
+margin: 2px;
+border-radius: 7px;
+color: #c9c9c9;
+background-color: transparent;
+}
+
+#entry:selected {
+background-color: #000000;
+color: #ff4500;
+}
